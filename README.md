@@ -1,3 +1,5 @@
+This fork simply removes files beginning with '._' from the displayed list.
+
 # comfyui-imagesubfolders
 Clone of the comfyui image loader node with subfolder support.
 
